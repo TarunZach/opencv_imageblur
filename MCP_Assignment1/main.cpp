@@ -12,7 +12,7 @@ namespace fs = filesystem;
 
 void gaussianMask(const Mat &src, Mat &dst, int startRow, int endRow)
 {
-  int kernelSize = 7; // 5x5 blur now (stronger)
+  int kernelSize = 7; // 7x7 blur (stronger)
 
   for (int r = startRow; r < endRow; r++)
   {

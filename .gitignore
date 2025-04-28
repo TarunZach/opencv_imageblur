@@ -1,0 +1,9 @@
+index
+index.cpp
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+MCP_Assignment1/blur_images
+MCP_Assignment1/build
+MCP_Assignment1/blurred
+MCP_Assignment1/images
